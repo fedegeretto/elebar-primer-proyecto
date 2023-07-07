@@ -585,6 +585,10 @@ h1, h2, h3, p, a, li, label, button{
 
 @media only screen and (max-width: 600px){
 
+    .navbar-nav {
+        padding-left: 0rem;
+    }
+
     .encabezado{
         flex-direction: column;
         padding: 0rem 0rem 2rem 0;
